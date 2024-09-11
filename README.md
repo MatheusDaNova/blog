@@ -1,4 +1,4 @@
-# blog
+# Blog
 
 Projeto "Blog com CRUD Completo".
 
